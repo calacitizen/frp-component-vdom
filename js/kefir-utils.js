@@ -1,0 +1,3 @@
+var
+  Kefir = require('kefir');
+

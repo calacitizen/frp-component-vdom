@@ -1,0 +1,27 @@
+{
+  "name": "frp-component-vdom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eaglus/frp-component-vdom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eaglus/frp-component-vdom/issues"
+  },
+  "homepage": "https://github.com/eaglus/frp-component-vdom",
+  "dependencies": {
+    "eventemitter": "^0.3.3",
+    "immutable": "^3.7.3",
+    "kefir": "^2.6.0",
+    "lodash": "^3.9.3",
+    "require": "^2.4.18",
+    "virtual-dom": "^2.0.1"
+  }
+}
